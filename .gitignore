@@ -1,0 +1,36 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+
+# Configuration files with sensitive information
+/config.py
+
+# Database files
+*.db
+*.sql
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
